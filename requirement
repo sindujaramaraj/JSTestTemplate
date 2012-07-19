@@ -1,0 +1,10 @@
+REQUIREMENTS SPECIFICATION
+**************************************************
+1) Create test file with stubs for source files
+2) Create eclipse plugin
+3) Provide code coverage measurement
+4) Integrate with testng
+5) Uses rhino, qunit, envjs or phantomjs
+6) Uses jscoverage or custom tool for code coverage
+7) Create website
+8) Push it to git and opensource it
